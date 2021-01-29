@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://EonH8tuuL6MNXRhMJUTe0g-PGIa6V3BY_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">5. Aşama: Ürün Geliştirme</name>
+      <description lang="en-US">&lt;strong&gt;&lt;span style=&#34;color: rgb(0, 155, 114);&#34;&gt;Merhabalar Girişimci,&lt;/span&gt;&lt;/strong&gt;Eğitimimizin 5. aşaması olan &amp;Uuml;r&amp;uuml;n Geliştirme&amp;#39;ye hoş geldin! &amp;Uuml;r&amp;uuml;n Geliştirme Aşaması toplamda 4 b&amp;ouml;l&amp;uuml;mden oluşuyor. B&amp;ouml;l&amp;uuml;mleri sırasıyla aşağıda g&amp;ouml;rebilirsin.&amp;nbsp;&lt;strong&gt;&lt;span style=&#34;color: rgb(0, 155, 114);&#34;&gt;Neler &amp;Ouml;ğreneceğiz?&lt;/span&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Tasarı ve prototip kavramlarının anlamlarını &amp;ouml;ğreceğiz.&lt;/li&gt;&lt;li&gt;Kodlama bilemeden nasıl dijital bir girişim &amp;uuml;r&amp;uuml;n&amp;uuml; &amp;ccedil;ıkarılabilir sorusunu cevaplandıracağız.&lt;/li&gt;&lt;li&gt;Son olarak ise &amp;uuml;r&amp;uuml;n&amp;uuml;m&amp;uuml;z&amp;uuml; nasıl test edebileceğimize değineceğiz.&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;span style=&#34;color: rgb(0, 155, 114);&#34;&gt;Neler Elde Edeceğiz?&lt;/span&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Aşama sonunda &amp;ccedil;&amp;ouml;z&amp;uuml;m fikrimizin temel &amp;ouml;zelliklerini taşıyan web veya mobil tabanlı &amp;uuml;r&amp;uuml;n&amp;uuml;m&amp;uuml;ze sahip olacağız.&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;span style=&#34;color: rgb(0, 155, 114); font-size: 22px;&#34;&gt;Hazırsan, hadi yukarıdaki başla butonuna tıkla ve eğitime başla!&lt;/span&gt;&lt;/strong&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://EonH8tuuL6MNXRhMJUTe0g-PGIa6V3BY_rise/lKUb8EMwO2zrxm7KnFIG9L_HCQPqOekS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">1. Giriş/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://EonH8tuuL6MNXRhMJUTe0g-PGIa6V3BY_rise/e_3FAmBNb61Tj7r2nc6nYdVDsn_xroSt" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">2. Tasarım ve Prototipleme/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://EonH8tuuL6MNXRhMJUTe0g-PGIa6V3BY_rise/Rzr4L88S3y46ZctpWiE9Hw_x5331IBzv" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">3. Teknik Geliştirme/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://EonH8tuuL6MNXRhMJUTe0g-PGIa6V3BY_rise/iscP46mHHoiPzXga2--qosLADW5l4jq6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">4. Veri Odaklı Kararlar/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
