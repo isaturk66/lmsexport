@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<lom>
+  <general>
+    <identifier>
+      <catalog>Catalog</catalog>
+      <entry>1</entry>
+    </identifier>
+    <title>
+      <string language="en-US"></string>
+    </title>
+    <language>en</language>
+    <description>
+      <string language="en-US"></string>
+    </description>
+  </general>
+
+  <lifeCycle>
+    <version>
+      <string language="en-US">1</string>
+    </version>
+    <status>
+      <source>LOMv1.0</source>
+      <value>final</value>
+    </status>
+  </lifeCycle>
+  <technical>
+    <format>text/html</format>
+  </technical>
+  <educational>
+    <typicalLearningTime>
+      <duration>PT0H0M0S</duration>
+    </typicalLearningTime>
+  </educational>
+  <rights>
+    <copyrightAndOtherRestrictions>
+      <source>LOMv1.0</source>
+      <value>yes</value>
+    </copyrightAndOtherRestrictions>
+  </rights>
+</lom>
